@@ -17,20 +17,5 @@ Sou uma entusiasta de tecnologia formada em Sistemas de Informação e estou apa
 
 Vamos colaborar e construir algo incrível juntos! 🤝
 
-English:
-👋 Hello, I'm Beatriz!
-I'm a technology enthusiast with a degree in Information Systems, and I've been passionate about creating solutions that drive businesses forward since 2021.
 
-🛠️ Currently, my focus is on crafting solutions for product management. I work as a full-stack developer, diving into the realms of Java, Javascript, and databases like Oracle, Microsoft SQL Server, and Postgresql.
-
-🚀 Here are some of my favorite stacks and frameworks:
-
-Spring Boot 2
-Vue.js 2
-AngularJS
-🌟 Working as a full-stack developer allows me to explore all the exciting aspects of software development, from building robust backends to crafting amazing frontend interfaces.
-
-Let's collaborate and build something awesome together! 🤝
-
-
-![Snake animation](https://github.com/seu-usuário-aqui/beokabe/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/beokabe/beokabe/blob/output/github-contribution-grid-snake.svg)
