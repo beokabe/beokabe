@@ -16,4 +16,3 @@ Sou uma entusiasta de tecnologia formada em Sistemas de Informação e estou na 
 
 🌟 Trabalhar como fullstack me permite explorar todos os aspectos emocionantes do desenvolvimento de software, desde o back-end robusto até as interfaces incríveis no front-end.
 
-Vamos colaborar e construir algo incrível juntos! 🤝
